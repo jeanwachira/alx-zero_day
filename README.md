@@ -1,2 +1,2 @@
  another read me for 0x03-git
- README update from Github.com /
+ ReadMe update from Github.com /
